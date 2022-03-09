@@ -1,0 +1,16 @@
+# #7
+num=int(input("eter number"))
+print(num/40)
+
+#8
+speed=int(input("enter number"))
+distance=int(input("enter number"))
+print(speed/distance)
+print(speed*distance/60)
+
+#9
+
+
+#10
+num=input("enter phone number without first number")
+print("0"+num)
