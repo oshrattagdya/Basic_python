@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_Quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ex on python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function_list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/while" vcs="Git" />
   </component>
 </project>
